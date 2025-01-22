@@ -1,7 +1,7 @@
 ---
 title: "Cyclistic Bike share (member vs casual)"
-author: "Muhammad Farjad Akmal"
-date: "10/27/2021"
+author: "Suneel Kumar"
+date: "10/27/2025"
 output: html_document
 ---
 
